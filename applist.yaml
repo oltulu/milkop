@@ -1,0 +1,129 @@
+---
+
+Developers:
+  Android Studio:
+    - sudo mps kur android-studio
+    - mps -kk android-studio
+  Arduino IDE:
+    - sudo mps kur anduino
+    - mps -kk anduino
+  Atom Text Editor:
+    - sudo mps kur atom
+    - mps -kk atom
+  Eclipse Installer:
+    - sudo mps kur eclipse
+    - mps -kk eclipse
+  Java Development Kit:
+    - sudo mps kur jdk
+    - mps -kk jdk
+  Java Runtime Environment:
+    - sudo mps kur jre
+    - mps -kk jre
+  Mono Develop:
+    - sudo mps kur monu-devel
+    - mps -kk mono-devel
+  NetBeans IDE:
+    - sudo mps kur netbeans
+    - mps -kk netbeans
+  OpenJDK 8:
+    - sudo mps kur openjdk-8
+    - mps -kk openjdk-8-jdk
+  OpenJRE 8:
+    - sudo mps kur openjdk-8-jre
+    - mps -kk openjdk-8-jre
+  PyCharm:
+    - sudo mps kur pycharm-community
+    - mps -kk pycharm-community
+  Qt 5:
+    - sudo mps kur qt5-default
+    - mps -kk qt5-default'
+  Qt Creator:
+    - sudo mps kur qtcreator
+    - mps -kk qtcreator
+  Sublime Text:
+    - sudo mps kur sublime
+    - mps -kk sublime
+  Vim:
+    - sudo mps kur vim
+    - mps -kk vim
+  Visual Studio Code:
+    - sudo mps kur vscode
+    - mps -kk vscode
+General:
+  GIMP Image Editor:
+    - sudo mps kur gimp
+    - mps -kk gimp
+  Google Chrome:
+    - sudo mps kur google-chrome
+    - mps -kk google-chrome
+  Mozilla Firefox:
+    - sudo mps kur firefox
+    - mps -kk firefox
+  Opera:
+    - sudo mps kur opera
+    - mps -kk opera
+  Pitivi Video Editor:
+    - sudo mps kur pitivi
+    - mps -kk pitivi
+  Skype:
+    - sudo mps kur skype
+    - mps -kk skype
+  Spotify:
+    - sudo mps kur spotify
+    - mps -kk spotify
+  TeamViewer:
+    - sudo mps kur teamviewer
+    - mps -kk teamviewer
+  Telegram Desktop:
+    - sudo mps kur telegram
+    - mps -kk telegram
+  VirtualBox:
+    - sudo mps kur virtualbox
+    - mps -kk virtualbox
+  Vivaldi:
+    - sudo mps kur vivaldi
+    - mps -kk vivaldi
+  VLC Media Player:
+    - sudo mps kur vlc
+    - mps -kk vlc
+Tools:
+  Cairo Dock:
+    - sudo mps kur cairo-dock
+    - mps -kk cairo-dock
+  Conky:
+    - sudo mps kur conky
+    - mps -kk conky
+  dconf Editor:
+    - sudo mps kur dconf-editor
+    - mps -kk dconf-editor
+  Docky:
+    - sudo mps kur docky
+    - mps -kk docky
+  FileZilla:
+    - sudo mps kur filezilla
+    - mps -kk filezilla
+  Gnome Tweak Tool:
+    - sudo mps kur gnome-tweak-tool
+    - mps -kk gnome-tweak-tool
+  Plank:
+    - sudo mps kur plank
+    - mps -kk plank
+  RecordMyDesktop:
+    - sudo mps kur recordmydesktop
+    - mps -kk recordmydesktop
+  Unity Tweak Tool:
+    - sudo mps kur unity-tweak-tool
+    - mps -kk unity-tweak-tool
+  Wine:
+    - sudo mps kur wine
+    - mps -kk wine
+System Management:
+  Boot Repair:
+    - sudo mps kur boot-repair
+    - mps -kk boot-repair
+  GParted:
+    - sudo mps kur gparted
+    - mps -kk gparted
+  OS-Uninstaller:
+    - sudo mps kur os-uninstaller
+    - mps -kk os-uninstaller
