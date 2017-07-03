@@ -1,15 +1,18 @@
 ---
 
 Developers:
-  Android Studio:
-    - sudo mps kur android-studio
-    - which android-studio
-  Arduino IDE:
-    - sudo mps kur anduino
-    - which anduino
-  Atom Text Editor:
-    - sudo mps kur atom
-    - which atom
+  Android Sdk Build Tools:
+    - sudo mps kur android-sdk-build-tools
+    - which android-sdk-build-tools
+  Android Sdk Platform Tools:
+    - sudo mps kur android-sdk-platform-tools
+    - which android-sdk-platform-tools
+  Mariadb:
+    - sudo mps kur mariadb
+    - which mariadb
+  Bluefish:
+    - sudo mps kur bluefish
+    - which bluefish
   Eclipse Installer:
     - sudo mps kur eclipse
     - which eclipse
@@ -22,27 +25,27 @@ Developers:
   Mono Develop:
     - sudo mps kur monu-devel
     - which mono-devel
-  NetBeans IDE:
-    - sudo mps kur netbeans
-    - which netbeans
+  Icedtea-web:
+    - sudo mps kur icedtea-web
+    - which icedtea-web
   OpenJDK 8:
-    - sudo mps kur openjdk-8
-    - which openjdk-8-jdk
+    - sudo mps kur openjdk
+    - which openjdk
   OpenJRE 8:
     - sudo mps kur openjdk-8-jre
     - which openjdk-8-jre
-  PyCharm:
-    - sudo mps kur pycharm-community
-    - which pycharm-community
+  Blender:
+    - sudo mps kur blender
+    - which blender
   Qt 5:
-    - sudo mps kur qt5-default
-    - which qt5-default'
+    - sudo mps kur qt5
+    - which qt5'
   Qt Creator:
     - sudo mps kur qtcreator
     - which qtcreator
   Sublime Text:
-    - sudo mps kur sublime
-    - which sublime
+    - sudo mps kur sublime-text
+    - which sublime-text
   Vim:
     - sudo mps kur vim
     - which vim
@@ -50,39 +53,39 @@ Developers:
     - sudo mps kur vscode
     - which vscode
 General:
-  GIMP Image Editor:
+  GIMP Resim Düzenleyici:
     - sudo mps kur gimp
     - which gimp
-  Google Chrome:
-    - sudo mps kur google-chrome
-    - which google-chrome
-  Mozilla Firefox:
-    - sudo mps kur firefox
-    - which firefox
-  Opera:
-    - sudo mps kur opera
-    - which opera
-  Pitivi Video Editor:
-    - sudo mps kur pitivi
-    - which pitivi
-  Skype:
-    - sudo mps kur skype
-    - which skype
-  Spotify:
-    - sudo mps kur spotify
-    - which spotify
-  TeamViewer:
-    - sudo mps kur teamviewer
-    - which teamviewer
+  Chromium Web Tarayıcı:
+    - sudo mps kur chromium
+    - which chromium
+  Firefox Web Tarayıcı:
+    - sudo mps kur firefox-bin
+    - which firefox-bin
+  Opera Web Tarayıcı:
+    - sudo mps kur opera-web-browser
+    - which opera-web-browser
+  Anydesk Uzak Masaüstü:
+    - sudo mps kur anydesk
+    - which anydesk
+  Samba:
+    - sudo mps kur samba
+    - which samba
+  Basit Ekran Kaydedici:
+    - sudo mps kur simplescreenrecorder
+    - which simplescreenrecorder
+  Libre Office:
+    - sudo mps kur libreoffice
+    - which libreoffice
   Telegram Desktop:
     - sudo mps kur telegram
     - which telegram
   VirtualBox:
     - sudo mps kur virtualbox
     - which virtualbox
-  Vivaldi:
-    - sudo mps kur vivaldi
-    - which vivaldi
+  PDF Okuyucu:
+    - sudo mps kur xreader
+    - which xreader
   VLC Media Player:
     - sudo mps kur vlc
     - which vlc
@@ -114,16 +117,37 @@ Tools:
   Unity Tweak Tool:
     - sudo mps kur unity-tweak-tool
     - which unity-tweak-tool
-  Wine:
-    - sudo mps kur wine
-    - which wine
+  MultiBootUSB Türkçe:
+    - sudo mps kur multibootusb
+    - which multibootusb
 System Management:
-  Boot Repair:
-    - sudo mps kur boot-repair
-    - which boot-repair
+  Grub Customizer:
+    - sudo mps kur grub-customizer
+    - which grub-customizer
   GParted:
     - sudo mps kur gparted
     - which gparted
-  OS-Uninstaller:
-    - sudo mps kur os-uninstaller
-    - which os-uninstaller
+  rEFInd :
+    - sudo mps refind-efi
+    - which refind-efi
+Milis:
+  Akis Kart:
+    - sudo mps kur akiskart
+    - which akiskart
+  Uyap Editor:
+    - sudo mps kur uyap
+    - which uyap
+  Komutan:
+    - sudo mps kur komutan
+    - which komutan
+  Kütüphane:
+    - sudo mps kur kutuphane
+    - which kutuphane
+  Milis Linux Saat:
+    - sudo mps kur milislinux-saat
+    - which milislinux-saat
+  WPS Office Türkçe:
+    - sudo mps kur wps-office
+    - which wps-office
+
+wps-office
