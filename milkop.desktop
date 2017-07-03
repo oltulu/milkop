@@ -3,7 +3,7 @@
 Type=Application
 Name=MilKop
 Comment=Kolay Program Kur
-Icon=/usr/share/icons/epiiicon.png
+Icon=/usr/share/icons/epiicon.png
 Exec=milkop
 Terminal=false
 Categories=Settings;Qt;
