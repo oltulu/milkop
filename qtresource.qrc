@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>./save.png</file>
+        <file>./sync.png</file>
+        <file>./bilgi.png</file>
+        <file>./epiicon.png</file>
+    </qresource>
+</RCC>
