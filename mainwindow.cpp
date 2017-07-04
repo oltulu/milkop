@@ -13,7 +13,7 @@ void MainWindow::addAppsToList(){
         listArr->at(i)->clear();
 
 
-    YAML::Node applist = YAML::LoadFile("/home/eren/.config/MilKoP/applist.yaml");
+    YAML::Node applist = YAML::LoadFile("/etc/applist.yaml");
 
     for(YAML::const_iterator categories = applist.begin(); categories != applist.end(); ++categories){
         std::string category_name = categories->first.as<std::string>();
@@ -235,7 +235,7 @@ void MainWindow::on_sync_clicked()
     }
     ui->btn_install->repaint(); // This is just for refreshing the last list. Because it is not refreshing the last one. So we make this last one.
 
-    terminal->start((QString)("/bin/sh -c \"mv ~/.config/MilKoP/applist.yaml ~/.config/MilKoP/applist.yaml.eski; wget -O /home/" + username + "/.config/MilKoP/applist.yaml 'https://raw.githubusercontent.com/oltulu/milkop/master/applist.yaml' -q --no-check-certificate\""));
+    terminal->start((QString)("/bin/sh -c \"mv /etc/applist.yaml /etc/applist.yaml.eski; wget -O /etc/applist.yaml 'https://raw.githubusercontent.com/oltulu/milkop/master/applist.yaml' -q --no-check-certificate\""));
     terminal->waitForFinished();
     terminal->close();
 
