@@ -241,7 +241,7 @@ void MainWindow::on_sync_clicked()
 
     addAppsToList();
     checkIfProgramsExists();
-    QMessageBox::information(this, "Bilgi", "Uygulama Listesi güncellendi (~/.config/MilKoP/applist.yaml)\nEski Liste Yedeklendi: 'applist.yaml.eski'");
+    QMessageBox::information(this, "Bilgi", "Uygulama Listesi güncellendi (/etc/applist.yaml)\nEski Liste Yedeklendi: 'applist.yaml.eski'");
 }
 
 void MainWindow::on_pushButton_clicked()
